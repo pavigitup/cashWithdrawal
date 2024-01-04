@@ -1,0 +1,15 @@
+.btn-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+button {
+  width: 140px;
+  margin: 5px 5px;
+  background-color: #585076;
+  border-radius: 2px;
+  outline: none;
+  border: 1px solid #d4d2db;
+  padding: 2px 0px;
+  color: #d4d2db;
+}
